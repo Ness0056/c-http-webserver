@@ -1,0 +1,5 @@
+/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0.skeleton/praxis0/Hello world/build/CMakeFiles/hello_world.dir
+/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0.skeleton/praxis0/Hello world/build/CMakeFiles/package.dir
+/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0.skeleton/praxis0/Hello world/build/CMakeFiles/package_source.dir
+/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0.skeleton/praxis0/Hello world/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0.skeleton/praxis0/Hello world/build/CMakeFiles/rebuild_cache.dir

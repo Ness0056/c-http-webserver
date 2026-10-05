@@ -1,5 +1,0 @@
-/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0/build/CMakeFiles/hello_world.dir
-/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0/build/CMakeFiles/package.dir
-/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0/build/CMakeFiles/package_source.dir
-/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/nessl/Desktop/Rechnernetze/praxis0/build/CMakeFiles/rebuild_cache.dir
